@@ -5,7 +5,7 @@
     <flash>1</flash>
     <projectorWin>0</projectorWin>
     <projectorMac>0</projectorMac>
-    <html>1</html>
+    <html>0</html>
     <gif>0</gif>
     <jpeg>0</jpeg>
     <png>0</png>
@@ -74,7 +74,7 @@
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>
-    <AS3PackagePaths>.</AS3PackagePaths>
+    <AS3PackagePaths>/Users/eduardoponce/gitHub/box2Dapp/src;/Users/eduardoponce/classes</AS3PackagePaths>
     <AS3ConfigConst>CONFIG::FLASH_AUTHORING=&quot;true&quot;;</AS3ConfigConst>
     <DebuggingPermitted>1</DebuggingPermitted>
     <DebuggingPassword></DebuggingPassword>
@@ -84,10 +84,10 @@
     <StreamUse8kSampleRate>0</StreamUse8kSampleRate>
     <EventUse8kSampleRate>0</EventUse8kSampleRate>
     <UseNetwork>0</UseNetwork>
-    <DocumentClass></DocumentClass>
+    <DocumentClass>index</DocumentClass>
     <AS3Strict>2</AS3Strict>
     <AS3Coach>4</AS3Coach>
-    <AS3AutoDeclare>4096</AS3AutoDeclare>
+    <AS3AutoDeclare>0</AS3AutoDeclare>
     <AS3Dialect>AS3</AS3Dialect>
     <AS3ExportFrame>1</AS3ExportFrame>
     <AS3Optimize>1</AS3Optimize>
@@ -95,7 +95,7 @@
     <ScriptStuckDelay>15</ScriptStuckDelay>
     <IncludeXMP>1</IncludeXMP>
     <HardwareAcceleration>0</HardwareAcceleration>
-    <AS3Flags>4102</AS3Flags>
+    <AS3Flags>6</AS3Flags>
     <DefaultLibraryLinkage>rsl</DefaultLibraryLinkage>
     <RSLPreloaderMethod>wrap</RSLPreloaderMethod>
     <RSLPreloaderSWF>$(AppConfig)/ActionScript 3.0/rsls/loader_animation.swf</RSLPreloaderSWF>
