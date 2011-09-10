@@ -6,7 +6,7 @@ package
 	{
 		public function index()
 		{
-			trace("funfou");
+			trace("funfou mais uma vez");
 		}
 	}
 }
